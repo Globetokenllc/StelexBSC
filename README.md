@@ -1,2 +1,4 @@
 # StelexBSC
-Binance Smart Chain POW Token
+
+
+Stelex Lunar is a BEP20 POW Token
