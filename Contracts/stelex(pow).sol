@@ -22,7 +22,7 @@ pragma solidity ^0.4.18;
 // 
 // ----------------------------------------------------------------------------
 //  | Copywrite 2021 - Opensource free to use, credits, to globetoken.gq.
-      Stelex is a token to define the use of mining effeciently - without the use of
+//   Stelex is a token to define the use of mining effeciently - without the use of
 //   modern electricity - instead use a protocal Called POE using POW on the binance smart chain.
 // ----------------------------------------------------------------------------
 
